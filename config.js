@@ -14,9 +14,9 @@ const users = [
   {
     id: 0, // default author
     username: "김형준",
-    company: "weniv",
-    position: "CEO",
-    img: "img/user/profile-licat.png",
+    company: "N/A (student)",
+    position: "Undergraduate Student",
+    img: "img/user/graduation_picture.png",
   },
 ];
 
