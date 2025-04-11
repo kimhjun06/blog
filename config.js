@@ -16,7 +16,7 @@ const users = [
     username: "김형준",
     company: "N/A (student)",
     position: "Undergraduate Student",
-    img: "img/user/graduation_picture.png",
+    img: "img/user/graduation_picture_1v1.png",
   },
 ];
 
