@@ -20,7 +20,7 @@
   - 학생 성적 관리 프로그램  
   - 주소록 관리 프로그램  
   - 문자열 처리 프로그램  
-- **코드 저장소**: [GitHub - C_study](https://github.com/kimhjun06/Programming/tree/main/C_study)
+- **코드 저장소**: [GitHub](https://github.com/kimhjun06/Programming/tree/main/C_study)
 
 ---
 
@@ -34,7 +34,7 @@
 ## 프로젝트
 
 - 대부분 C 언어 기반으로 제작  
-- 소규모 유틸리티 및 CLI 프로그램 개발 경험 다수  
-- [📂 GitHub 저장소에서 더 보기](https://github.com/kimhjun06)
+- CLI 프로그램 개발 경험
+- [GitHub 저장소에서 더 보기](https://github.com/kimhjun06)
 
 ---
