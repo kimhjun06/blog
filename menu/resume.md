@@ -1,8 +1,8 @@
 # 안녕하세요 저는 김형준입니다.
+
 - **이메일**: kimhjun06@gmail.com
 - **GitHub**: [github.com/kimhjun06](https://github.com/kimhjun06)
 
----
 ## 학력
 
 한라대학교 컴퓨터공학과 (2025.03 - )
@@ -18,11 +18,9 @@
         - 성적:
         - [GitHub](https://https://github.com/kimhjun06/Programming/tree/main/C_study)  
 
----
 ## 활동
 
 - COES (한라대 CSE 알고리즘 동아리)
 
----
 ## 프로젝트
 - 대부분 언어 및 프레임워크 사용 : C
